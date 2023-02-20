@@ -6,7 +6,7 @@ Using R Code
 
 **Due** : Monday 27 February 2023
 
-![logo](graphics/b12plot.png)
+![logo](graphics/b12Plot.png)
 
 Figure 1: Creating plots from R programming code is essential skill in Data Science. In this lab, we will spend a moment to manipulate data (given in the R programming language) to be used to formulate conclusions from its plots. We note that further study and verification is often necessary to draw conclusions from plotted data.
 
