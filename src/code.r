@@ -13,6 +13,8 @@ cat("\014") # clear the console
 
 #################################
 
+#### Part 1
+
 library(tibble)
 library(tidyvese)
 # Create a new tibble by combining vectors using
@@ -70,6 +72,7 @@ beaverData <- tibble(
 # Q11: For both data sets, show that the increased activity raises temperature. Use color to make this point for each data set. 
 # TODO
 
+#### Part 2
 
 # 3.3.1 Exercises
 # https://r4ds.had.co.nz/data-visualisation.html#exercises-1

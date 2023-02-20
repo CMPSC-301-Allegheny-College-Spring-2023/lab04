@@ -25,9 +25,9 @@ For this work, we will be using Chapter 3, [Data Visualization](https://r4ds.had
 
 ##  Instructions
 
-* Complete the questions (see comments) in the File `src/code.r`. Remove the `ToDo`'s in the file as you complete questions and submit your work.
+* Part 1, Complete the questions (see comments) in the File `src/code.r`. Remove the `ToDo`'s in the file as you complete questions and submit your work.
 
-* In addition, you will be completing questions from the textbook. These questions are to be completed in the File `src/code.r`.
+* Part 2, you will be completing questions from the textbook. These questions are to be completed in the File `src/code.r`.
 
     + [3.3.1 Exercises](https://r4ds.had.co.nz/data-visualisation.html#exercises-1)
     + [3.5.1 Exercises](https://r4ds.had.co.nz/data-visualisation.html#exercises-2)
